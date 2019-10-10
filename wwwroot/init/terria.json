@@ -5,6 +5,9 @@
     "south": -45,
     "west": 109
   },
+  "corsDomains" : [
+    "api.here.com"
+  ],
   "catalog": [
     {
       "name": "Example Datasets",
